@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #E4F9F5;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 100px;
+    margin: 50 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF ;
+    line-height: 1 ;
+}
+h2{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+   position: relative;
+   padding-top: 100px;
+
+}
+.middle-container{
+    margin-top: 100px;
+   
+}
+
+.top-cloud{
+    position: absolute;
+    margin-left: 300px;
+    top: 50px;
+
+}
+.bottom-cloud{
+    position: absolute;
+   left: 300px;
+}
+.pro{
+    font-size: 2.5rem;
+   color: #66BFBF ;
+}
+a{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+.one{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.two{
+    width: 25%;
+    float: right;
+    margin-left:30px ;
+}
+.three{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
